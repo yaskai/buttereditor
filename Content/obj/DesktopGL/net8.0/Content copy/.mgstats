@@ -1,0 +1,11 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"/home/kai/Documents/buttereditor/Content/beri_tree00.png","/home/kai/Documents/buttereditor/Content/bin/DesktopGL/Content copy/beri_tree00.xnb","TextureProcessor","Texture2DContent",1690,131157,0.0990098
+"/home/kai/Documents/buttereditor/Content/bg_tileset00.png","/home/kai/Documents/buttereditor/Content/bin/DesktopGL/Content copy/bg_tileset00.xnb","TextureProcessor","Texture2DContent",1275,262229,0.010236
+"/home/kai/Documents/buttereditor/Content/blank_pixels.png","/home/kai/Documents/buttereditor/Content/bin/DesktopGL/Content copy/blank_pixels.xnb","TextureProcessor","Texture2DContent",210,213,0.0011109
+"/home/kai/Documents/buttereditor/Content/buttons_spritesheet.png","/home/kai/Documents/buttereditor/Content/bin/DesktopGL/Content copy/buttons_spritesheet.xnb","TextureProcessor","Texture2DContent",1178,131157,0.0033708
+"/home/kai/Documents/buttereditor/Content/cursor01.png","/home/kai/Documents/buttereditor/Content/bin/DesktopGL/Content copy/cursor01.xnb","TextureProcessor","Texture2DContent",282,3157,0.0005093
+"/home/kai/Documents/buttereditor/Content/door0064x64.png","/home/kai/Documents/buttereditor/Content/bin/DesktopGL/Content copy/door0064x64.xnb","TextureProcessor","Texture2DContent",431,16469,0.0010516
+"/home/kai/Documents/buttereditor/Content/fblock.png","/home/kai/Documents/buttereditor/Content/bin/DesktopGL/Content copy/fblock.xnb","TextureProcessor","Texture2DContent",1800,327765,0.0103164
+"/home/kai/Documents/buttereditor/Content/lvle_misc.png","/home/kai/Documents/buttereditor/Content/bin/DesktopGL/Content copy/lvle_misc.xnb","TextureProcessor","Texture2DContent",1100,65621,0.001621
+"/home/kai/Documents/buttereditor/Content/tileset00_32x32.png","/home/kai/Documents/buttereditor/Content/bin/DesktopGL/Content copy/tileset00_32x32.xnb","TextureProcessor","Texture2DContent",2191,122965,0.003319
+"/home/kai/Documents/buttereditor/Content/tileset00_64x64.png","/home/kai/Documents/buttereditor/Content/bin/DesktopGL/Content copy/tileset00_64x64.xnb","TextureProcessor","Texture2DContent",6131,655445,0.0203686

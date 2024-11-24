@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/home/kai/Documents/buttereditor/Content/beri_tree00.png</File>
+    <File>/home/kai/Documents/buttereditor/Content/bg_tileset00.png</File>
+    <File>/home/kai/Documents/buttereditor/Content/blank_pixels.png</File>
+    <File>/home/kai/Documents/buttereditor/Content/buttons_spritesheet.png</File>
+    <File>/home/kai/Documents/buttereditor/Content/cursor01.png</File>
+    <File>/home/kai/Documents/buttereditor/Content/door0064x64.png</File>
+    <File>/home/kai/Documents/buttereditor/Content/fblock.png</File>
+    <File>/home/kai/Documents/buttereditor/Content/lvle_misc.png</File>
+    <File>/home/kai/Documents/buttereditor/Content/tileset00_32x32.png</File>
+    <File>/home/kai/Documents/buttereditor/Content/tileset00_64x64.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
